@@ -159,6 +159,9 @@
       - "!crypto/doc/**/*"
       - "!crypto/*.rst"
 
+"CI-wifi-soc-fpga":
+  - "nrf71_wifi/**/*"
+
 "CI-audio-test":
   - "lc3/**/*"
   - "softdevice_controller/CMakeLists.txt"
