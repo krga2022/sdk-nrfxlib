@@ -159,6 +159,10 @@
       - "!crypto/doc/**/*"
       - "!crypto/*.rst"
 
+"CI-wifi-7120dk":
+  - "nrf71_wifi/**/*"
+
+
 "CI-audio-test":
   - "lc3/**/*"
   - "softdevice_controller/CMakeLists.txt"
